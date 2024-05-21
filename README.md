@@ -5,7 +5,7 @@ I'm a Computer Science student specializing in Information Technology with a pas
 
 ## Skills
 
-###👨‍💻Languages
+### 👨‍💻Languages
 <a href="#"><img alt="Static Badge" src="https://img.shields.io/badge/php-484C89?style=flat&logo=php"></a>
 
 
