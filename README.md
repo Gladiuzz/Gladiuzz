@@ -17,7 +17,7 @@ I'm a Computer Science student specializing in Information Technology with a pas
 ### 🧰Frameworks and Libraries
 ![Flutter](https://img.shields.io/badge/Flutter-000?style=plastic&logo=Flutter)
 ![Laravel](https://img.shields.io/badge/Laravel-000?style=plastic&logo=Laravel)
-![Express.js](https://img.shields.io/badge/Laravel-000?style=plastic&logo=Express.js)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=plastic&logo=Express)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=plastic&logo=TensorFlow)
 
 ### 🗄️ Databases and cloud
