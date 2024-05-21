@@ -1,8 +1,10 @@
-# 👋 Hello, Visitor! I'm Hasin Bashari | Gladiuzz
+# 👋 Hello, Visitor! I'm Gladiuzz
 
 <img alt="GIF" src="https://media1.tenor.com/m/N-OuSSfoMe4AAAAC/power-denji.gif">
 
 ## About me
+![surname](https://img.shields.io/badge/Usually%20called%20Sin-808080?style=plastic)
+
 I'm a Computer Science student specializing in Information Technology with a passion for developing innovative mobile and web applications. Currently, I am delving into the fascinating world of artificial intelligence, exploring its potential to revolutionize various industries.
 
 ## 🛠️Tech Stack
