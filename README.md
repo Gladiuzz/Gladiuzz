@@ -47,9 +47,11 @@ I'm a Computer Science student specializing in Information Technology with a pas
 - Avid reader of manga and love exploring different genres and stories.
 - Exploring the latest technology trends
 
-## Contact Me
+## How to Reach Me
 - **Email:** [Email](mailto:hasinbasharip@gmail.com)
-- **LinkedIn:** [Linkedin](www.linkedin.com/in/hasin-bashari-panansah-a5a1a5203)
+- **Twitter:** <a href="https://www.instagram.com/sinjz">Instagram</a>
+- **Twitter:** <a href="https://twitter.com/HasinBashari">Twitter</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/hasin-bashari-panansah-a5a1a5203/">Linkedin</a>
 
 ## Let's Collaborate
 I'm open to contributions, feedback, and new ideas! Feel free to reach out if you want to collaborate on mobile and web development projects or explore the potentials of artificial intelligence together.
