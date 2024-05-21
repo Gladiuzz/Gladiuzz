@@ -26,4 +26,10 @@ I'm a Computer Science student specializing in Information Technology with a pas
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=plastic&logo=firebase)
 ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-000?style=plastic&logo=GoogleCloud)
 
+## 🌱 Currently Learning
+- Learn and implement the concept of clean architecture in flutter
+- optimization for natural language processing(NLP)
+- Generative model using watsonx.ai
+- Integrating AI with flutter
+
 
