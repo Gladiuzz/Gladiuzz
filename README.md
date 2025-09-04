@@ -47,9 +47,8 @@ Currently writing my thesis on the topic of automatic translation applications f
 
 ## 🌱 Currently Learning
 - Learn and implement the concept of clean architecture in flutter
-- optimization for natural language processing(NLP)
-- Generative model using watsonx.ai
 - Integrating AI with flutter
+- Optimizing faster r-cnn model for object detection
 
 ## ✨ Fun Facts
 - Enjoy attending tech meetups and networking with other tech enthusiasts
