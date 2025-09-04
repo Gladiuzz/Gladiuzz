@@ -7,6 +7,9 @@
 
 I'm a Computer Science student specializing in Information Technology with a passion for developing innovative mobile and web applications. Currently, I am delving into the fascinating world of artificial intelligence, exploring its potential to revolutionize various industries.
 
+## Project now
+Currently writing my thesis on the topic of automatic translation applications for Japanese comics (manga).
+
 ## 🛠️Tech Stack
 
 ### 👨‍💻 Languages
@@ -23,6 +26,7 @@ I'm a Computer Science student specializing in Information Technology with a pas
 ![Laravel](https://img.shields.io/badge/Laravel-000?style=plastic&logo=Laravel)
 ![Express.js](https://img.shields.io/badge/Express.js-000?style=plastic&logo=Express)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=plastic&logo=TensorFlow)
+![Pytorch](https://img.shields.io/badge/Pytorch-000?style=plastic&logo=Pytorch)
 
 ### 🗄️ Databases and cloud
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=plastic&logo=mysql)
