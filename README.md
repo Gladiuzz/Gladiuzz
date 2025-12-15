@@ -44,9 +44,7 @@ Currently writing my thesis on the topic of automatic translation applications f
 - Event Registration : qr code scan, mobile with flutter
 
 ## 🌱 Currently Learning
-- Learn and implement the concept of clean architecture in flutter
-- Integrating AI with flutter
-- Optimizing faster r-cnn model for object detection
+- Implement face recognition & detection to mobile
 
 ## ✨ Fun Facts
 - Enjoy attending tech meetups and networking with other tech enthusiasts
