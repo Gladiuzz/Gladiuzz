@@ -1,7 +1,5 @@
 # 👋 Hello, Visitor! I'm Gladiuzz
 
-<img alt="GIF" src="https://media1.tenor.com/m/N-OuSSfoMe4AAAAC/power-denji.gif">
-
 ## About me
 ![surname](https://img.shields.io/badge/Usually%20called%20Sin-000?style=plastic)
 
