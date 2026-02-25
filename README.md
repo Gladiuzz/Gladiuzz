@@ -5,8 +5,6 @@
 
 I'm a Computer Science student specializing in Information Technology with a passion for developing innovative mobile and web applications. Currently, I am delving into the fascinating world of artificial intelligence, exploring its potential to revolutionize various industries.
 
-## Project now
-Currently writing my thesis on the topic of automatic translation applications for Japanese comics (manga).
 
 ## 🛠️Tech Stack
 
@@ -43,9 +41,6 @@ Currently writing my thesis on the topic of automatic translation applications f
 - MarketPlace Platform : Website with laravel, mobile with flutter, payment gateway, firebase notification, payment gateway, Expedition gosend API integration
 - Event Registration : qr code scan, mobile with flutter
 - Manga Translator : Manga element detection with Faster R-CNN (Pytorch), text detection with MangaOCR, Translation with GPT-4.1, mobile in flutter
-
-## 🌱 Currently Learning
-- Implement face recognition & detection to mobile with Tensorflow Lite
 
 ## ✨ Fun Facts
 - Enjoy attending tech meetups and networking with other tech enthusiasts
