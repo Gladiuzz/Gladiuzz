@@ -38,7 +38,7 @@ I'm a Computer Science student specializing in Information Technology with a pas
 ![Github](https://img.shields.io/badge/Github-000?style=plastic&logo=github)
 
 ## 📝 Projects
-- MarketPlace Platform : Website with laravel, mobile with flutter, payment gateway, firebase notification, payment gateway, Expedition gosend API integration
+- MarketPlace Platform : Website with laravel, mobile with flutter, payment gateway, firebase notification, payment gateway, third party expedition API integration
 - Event Registration : qr code scan, mobile with flutter
 - Manga Translator : Manga element detection with Faster R-CNN (Pytorch), text detection with MangaOCR, Translation with GPT-4.1, mobile in flutter
 
