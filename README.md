@@ -3,7 +3,7 @@
 ## About me
 ![surname](https://img.shields.io/badge/Usually%20called%20Sin-000?style=plastic)
 
-I'm a Computer Science student specializing in Information Technology with a passion for developing innovative mobile and web applications. Currently, I am delving into the fascinating world of artificial intelligence, exploring its potential to revolutionize various industries.
+I'm a Computer Science fresh graduate specializing in Information Technology with a passion for developing innovative mobile and web applications. Currently, I am delving into the fascinating world of artificial intelligence, exploring its potential to revolutionize various industries.
 
 
 ## 🛠️Tech Stack
